@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.sansserif {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  }
+
+
+    body{
+    background-image: url("https://unsplash.com/photos/aJYO8JmVodY");
+}
